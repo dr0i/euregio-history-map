@@ -1,8 +1,11 @@
 # Lookup lobid/nwbib by an Ortsname and get its lat and lon
 # date: 2019-10-14
 # author: dr0i
-rm ortsnameLatLon.txt ortsnameWDLatLon.txt
-
+echo "ort, wd, latitude,longitude" > ortsnameWDLatLon.txt
+echo '{
+  "type": "FeatureCollection",
+  "features": [
+' > ortsnameWDLatLon.geo.json
 getLatLonByOrtViaLobid () {
 IFS=\
 ;
@@ -11,6 +14,7 @@ DATA=$(curl "https://lobid.org/resources/search?q=spatial.label%3A%22$ORT%22+AND
 LAT=$(echo $DATA | grep '"lat" : ' |cut -d " " -f13|tr -d ','|head -n1)
 LON=$(echo $DATA | grep '"lon" : ' |cut -d " " -f13|tr -d ','|head -n1)
 printf "$ORT: \"$LAT,$LON\"\n" >> ortsnameLatLon.txt
+printf 
 }
 
 getLatLonByOrtViaWikidata () {
@@ -21,7 +25,26 @@ WD=$2
 DATA=$(curl -L  https://www.wikidata.org/entity/$WD)
 LAT=$(echo $DATA | jq . |grep latitude | sed 's#.*"latitude": ##g'| sed 's#,##g#')
 LON=$(echo $DATA | jq . |grep longitude | sed 's#.*"longitude": ##g'| sed 's#,##g#')
-printf "$ORT: \"$WD\",\"$LAT,$LON\"\n" >> ortsnameWDLatLon.txt
+if [ ! -z $LAT ]; then
+printf "$ORT,$WD,$LAT,$LON\n" >> ortsnameWDLatLon.txt
+printf '{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [' >> ortsnameWDLatLon.geo.json
+printf "$LON,$LAT" >> ortsnameWDLatLon.geo.json
+printf ' ]
+      },
+      "properties": {
+        "ort": "' >> ortsnameWDLatLon.geo.json
+printf "$ORT" >> ortsnameWDLatLon.geo.json
+printf '",
+        "wd": "' >>ortsnameWDLatLon.geo.json
+printf "$WD" >>ortsnameWDLatLon.geo.json
+printf '" }
+    },
+' >>ortsnameWDLatLon.geo.json
+fi
 }
 
 getWikidataEntityAndLatLOn () {

@@ -1,0 +1,376 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5808,51.925 ]
+      },
+      "properties": {
+        "ort": "Aalten",
+        "wd": "Q275909" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6666666666667,52.366666666667 ]
+      },
+      "properties": {
+        "ort": "Almelo",
+        "wd": "Q988" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4261111111111,51.850555555556 ]
+      },
+      "properties": {
+        "ort": "Anholt",
+        "wd": "Q545414" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1597222222222,52.303055555556 ]
+      },
+      "properties": {
+        "ort": "Bad Bentheim",
+        "wd": "Q574332" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.295,51.979166666667 ]
+      },
+      "properties": {
+        "ort": "Billerbeck",
+        "wd": "Q14946" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6166666666667,51.833333333333 ]
+      },
+      "properties": {
+        "ort": "Bocholt",
+        "wd": "Q3917" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8583333333333,51.843888888889 ]
+      },
+      "properties": {
+        "ort": "Borken",
+        "wd": "Q453" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4833333333333,51.866666666667 ]
+      },
+      "properties": {
+        "ort": "Dinxperlo",
+        "wd": "Q1226753" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.2833333333333,51.966666666667 ]
+      },
+      "properties": {
+        "ort": "Doetinchem",
+        "wd": "Q145845" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8955555555556,52.223611111111 ]
+      },
+      "properties": {
+        "ort": "Enschede",
+        "wd": "Q10002" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0055555555556,51.956944444444 ]
+      },
+      "properties": {
+        "ort": "Gescher",
+        "wd": "Q200640" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8497222222222,52.466666666667 ]
+      },
+      "properties": {
+        "ort": "Getelo",
+        "wd": "Q629066" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9166666666667,52.516666666667 ]
+      },
+      "properties": {
+        "ort": "Gölenkamp",
+        "wd": "Q624634" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7930555555556,52.265555555556 ]
+      },
+      "properties": {
+        "ort": "Hengelo",
+        "wd": "Q10006" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7990833333333,51.8435 ]
+      },
+      "properties": {
+        "ort": "Hoxfeld",
+        "wd": "Q1632070" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5666666666667,51.983333333333 ]
+      },
+      "properties": {
+        "ort": "Lichtenvoorde",
+        "wd": "Q684984" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5491666666667,51.833055555556 ]
+      },
+      "properties": {
+        "ort": "Liedern",
+        "wd": "Q44052318" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0044,52.2617 ]
+      },
+      "properties": {
+        "ort": "Losser",
+        "wd": "Q10015" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9666666666667,52.5 ]
+      },
+      "properties": {
+        "ort": "Neuenhaus",
+        "wd": "Q572280" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.23056,53.025 ]
+      },
+      "properties": {
+        "ort": "Neurhede",
+        "wd": "Q1981187" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3930555555556,8.67875 ]
+      },
+      "properties": {
+        "ort": "Niedersachsen",
+        "wd": "Q1197" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0666666666667,52.433333333333 ]
+      },
+      "properties": {
+        "ort": "Nordhorn",
+        "wd": "Q4133" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9291666666667,52.3125 ]
+      },
+      "properties": {
+        "ort": "Oldenzaal",
+        "wd": "Q10016" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.035,52.2369 ]
+      },
+      "properties": {
+        "ort": "Overdinkel",
+        "wd": "Q918721" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8333333333333,51.766666666667 ]
+      },
+      "properties": {
+        "ort": "Raesfeld",
+        "wd": "Q200247" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.47917,51.9225 ]
+      },
+      "properties": {
+        "ort": "Rotterdam",
+        "wd": "Q34370" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3480555555556,7.35 ]
+      },
+      "properties": {
+        "ort": "Salzbergen",
+        "wd": "Q512612" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.465488888889,50.659166666667 ]
+      },
+      "properties": {
+        "ort": "Schwartenberg",
+        "wd": "Q2253260" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.502222,51.859167 ]
+      },
+      "properties": {
+        "ort": "Suderwick",
+        "wd": "Q485684" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8666666666667,52.5 ]
+      },
+      "properties": {
+        "ort": "Uelsen",
+        "wd": "Q572300" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.3797,51.8908 ]
+      },
+      "properties": {
+        "ort": "Ulft",
+        "wd": "Q1260625" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.3166666666667,52.1 ]
+      },
+      "properties": {
+        "ort": "Vorden",
+        "wd": "Q1615554" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8330555555556,52.033055555556 ]
+      },
+      "properties": {
+        "ort": "Vreden",
+        "wd": "Q200528" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0333333333333,53.15 ]
+      },
+      "properties": {
+        "ort": "Winschoten",
+        "wd": "Q73817" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7166666666667,51.966666666667 ]
+      },
+      "properties": {
+        "ort": "Winterswijk",
+        "wd": "Q72974" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.195,52.14 ]
+      },
+      "properties": {
+        "ort": "Zutphen",
+        "wd": "Q109535" }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6911111111111,52.054166666667 ]
+      },
+      "properties": {
+        "ort": "Zwillbrock",
+        "wd": "Q153919" }
+    }
+]
+}
