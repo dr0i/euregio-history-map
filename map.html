@@ -32,7 +32,7 @@
     L.geoJson(data ,{
 pointToLayer: function(feature,latlng){
       var marker = L.marker(latlng);
-      marker.bindPopup(feature.properties.ort + '<br/>' + "https://wikidata.org/entities/"+feature.properties.wd);
+      marker.bindPopup(feature.properties.ort + '<br/>' + "https://wikidata.org/entities/"+feature.properties.wd+ '<br/>' + feature.properties.target);
       return marker;
     }
 
