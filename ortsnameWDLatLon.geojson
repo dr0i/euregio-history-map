@@ -1,376 +1,404 @@
 {
   "type": "FeatureCollection",
   "features": [
-
 {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.5808,51.925 ]
-      },
-      "properties": {
-        "ort": "Aalten",
-        "wd": "Q275909" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.6666666666667,52.366666666667 ]
-      },
-      "properties": {
-        "ort": "Almelo",
-        "wd": "Q988" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.4261111111111,51.850555555556 ]
-      },
-      "properties": {
-        "ort": "Anholt",
-        "wd": "Q545414" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.1597222222222,52.303055555556 ]
-      },
-      "properties": {
-        "ort": "Bad Bentheim",
-        "wd": "Q574332" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.295,51.979166666667 ]
-      },
-      "properties": {
-        "ort": "Billerbeck",
-        "wd": "Q14946" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.6166666666667,51.833333333333 ]
-      },
-      "properties": {
-        "ort": "Bocholt",
-        "wd": "Q3917" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.8583333333333,51.843888888889 ]
-      },
-      "properties": {
-        "ort": "Borken",
-        "wd": "Q453" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.4833333333333,51.866666666667 ]
+        "coordinates": [6.4833333333333,51.866666666667]
       },
       "properties": {
         "ort": "Dinxperlo",
-        "wd": "Q1226753" }
-    },
-{
+        "wd": "Q1226753",
+        "target": "[https://euregio-history.net/de/node/53, https://euregio-history.net/de/node/60, https://euregio-history.net/de/node/86, https://euregio-history.net/de/node/96, https://euregio-history.net/de/node/115, https://euregio-history.net/de/node/116, https://euregio-history.net/de/node/123, https://euregio-history.net/de/node/124, https://euregio-history.net/nl/node/125, https://euregio-history.net/de/node/135, https://euregio-history.net/de/node/175, https://euregio-history.net/nl/node/187]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.2833333333333,51.966666666667 ]
-      },
-      "properties": {
-        "ort": "Doetinchem",
-        "wd": "Q145845" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.8955555555556,52.223611111111 ]
-      },
-      "properties": {
-        "ort": "Enschede",
-        "wd": "Q10002" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.0055555555556,51.956944444444 ]
-      },
-      "properties": {
-        "ort": "Gescher",
-        "wd": "Q200640" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.8497222222222,52.466666666667 ]
-      },
-      "properties": {
-        "ort": "Getelo",
-        "wd": "Q629066" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.9166666666667,52.516666666667 ]
-      },
-      "properties": {
-        "ort": "Gölenkamp",
-        "wd": "Q624634" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.7930555555556,52.265555555556 ]
-      },
-      "properties": {
-        "ort": "Hengelo",
-        "wd": "Q10006" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.7990833333333,51.8435 ]
-      },
-      "properties": {
-        "ort": "Hoxfeld",
-        "wd": "Q1632070" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.5666666666667,51.983333333333 ]
+        "coordinates": [6.5666666666667,51.983333333333]
       },
       "properties": {
         "ort": "Lichtenvoorde",
-        "wd": "Q684984" }
-    },
-{
+        "wd": "Q684984",
+        "target": "[https://euregio-history.net/de/node/157]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.5491666666667,51.833055555556 ]
+        "coordinates": [6.5808,51.925]
       },
       "properties": {
-        "ort": "Liedern",
-        "wd": "Q44052318" }
-    },
-{
+        "ort": "Aalten",
+        "wd": "Q275909",
+        "target": "[https://euregio-history.net/nl/node/82, https://euregio-history.net/de/node/94, https://euregio-history.net/de/node/157, https://euregio-history.net/de/node/167, https://euregio-history.net/de/node/178, https://euregio-history.net/nl/node/179]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.0044,52.2617 ]
+        "coordinates": [6.9166666666667,52.516666666667]
       },
       "properties": {
-        "ort": "Losser",
-        "wd": "Q10015" }
-    },
-{
+        "ort": "Gölenkamp",
+        "wd": "Q624634",
+        "target": "[https://euregio-history.net/de/node/101]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [6.9666666666667,52.5 ]
+        "coordinates": [6.7930555555556,52.265555555556]
       },
       "properties": {
-        "ort": "Neuenhaus",
-        "wd": "Q572280" }
-    },
-{
+        "ort": "Hengelo",
+        "wd": "Q10006",
+        "target": "[https://euregio-history.net/de/node/78, https://euregio-history.net/de/node/117]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.23056,53.025 ]
+        "coordinates": [6.6166666666667,51.833333333333]
       },
       "properties": {
-        "ort": "Neurhede",
-        "wd": "Q1981187" }
-    },
-{
+        "ort": "Bocholt",
+        "wd": "Q3917",
+        "target": "[https://euregio-history.net/de/node/130, https://euregio-history.net/de/node/157]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [9.3930555555556,8.67875 ]
+        "coordinates": [6.2833333333333,51.966666666667]
       },
       "properties": {
-        "ort": "Niedersachsen",
-        "wd": "Q1197" }
-    },
-{
+        "ort": "Doetinchem",
+        "wd": "Q145845",
+        "target": "[https://euregio-history.net/de/node/137]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.0666666666667,52.433333333333 ]
-      },
-      "properties": {
-        "ort": "Nordhorn",
-        "wd": "Q4133" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.9291666666667,52.3125 ]
-      },
-      "properties": {
-        "ort": "Oldenzaal",
-        "wd": "Q10016" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [7.035,52.2369 ]
-      },
-      "properties": {
-        "ort": "Overdinkel",
-        "wd": "Q918721" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.8333333333333,51.766666666667 ]
+        "coordinates": [6.8333333333333,51.766666666667]
       },
       "properties": {
         "ort": "Raesfeld",
-        "wd": "Q200247" }
-    },
-{
+        "wd": "Q200247",
+        "target": "[https://euregio-history.net/de/node/171]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [4.47917,51.9225 ]
+        "coordinates": [7.295,51.979166666667]
+      },
+      "properties": {
+        "ort": "Billerbeck",
+        "wd": "Q14946",
+        "target": "[https://euregio-history.net/de/node/192]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.47917,51.9225]
       },
       "properties": {
         "ort": "Rotterdam",
-        "wd": "Q34370" }
-    },
-{
+        "wd": "Q34370",
+        "target": "[https://euregio-history.net/de/node/178, https://euregio-history.net/nl/node/179]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.3480555555556,7.35 ]
+        "coordinates": [9.3930555555556,52.756111111111]
       },
       "properties": {
-        "ort": "Salzbergen",
-        "wd": "Q512612" }
-    },
-{
+        "ort": "Niedersachsen",
+        "wd": "Q1197",
+        "target": "[https://euregio-history.net/de/node/81]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [13.465488888889,50.659166666667 ]
-      },
-      "properties": {
-        "ort": "Schwartenberg",
-        "wd": "Q2253260" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.502222,51.859167 ]
-      },
-      "properties": {
-        "ort": "Suderwick",
-        "wd": "Q485684" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.8666666666667,52.5 ]
-      },
-      "properties": {
-        "ort": "Uelsen",
-        "wd": "Q572300" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.3797,51.8908 ]
-      },
-      "properties": {
-        "ort": "Ulft",
-        "wd": "Q1260625" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.3166666666667,52.1 ]
-      },
-      "properties": {
-        "ort": "Vorden",
-        "wd": "Q1615554" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.8330555555556,52.033055555556 ]
+        "coordinates": [6.8330555555556,52.033055555556]
       },
       "properties": {
         "ort": "Vreden",
-        "wd": "Q200528" }
-    },
-{
+        "wd": "Q200528",
+        "target": "[https://euregio-history.net/de/node/78, https://euregio-history.net/de/node/138, https://euregio-history.net/de/node/140, https://euregio-history.net/nl/node/180]"
+}},{
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [7.0333333333333,53.15 ]
-      },
-      "properties": {
-        "ort": "Winschoten",
-        "wd": "Q73817" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.7166666666667,51.966666666667 ]
-      },
-      "properties": {
-        "ort": "Winterswijk",
-        "wd": "Q72974" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.195,52.14 ]
-      },
-      "properties": {
-        "ort": "Zutphen",
-        "wd": "Q109535" }
-    },
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [6.6911111111111,52.054166666667 ]
+        "coordinates": [6.6911111111111,52.054166666667]
       },
       "properties": {
         "ort": "Zwillbrock",
-        "wd": "Q153919" }
-    }
-]
-}
+        "wd": "Q153919",
+        "target": "[https://euregio-history.net/de/node/173]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7990833333333,51.8435]
+      },
+      "properties": {
+        "ort": "Hoxfeld",
+        "wd": "Q1632070",
+        "target": "[https://euregio-history.net/de/node/126]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8497222222222,52.466666666667]
+      },
+      "properties": {
+        "ort": "Getelo",
+        "wd": "Q629066",
+        "target": "[https://euregio-history.net/de/node/154, https://euregio-history.net/de/node/155]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5491666666667,51.833055555556]
+      },
+      "properties": {
+        "ort": "Liedern",
+        "wd": "Q44052318",
+        "target": "[https://euregio-history.net/de/node/130, https://euregio-history.net/de/node/134]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.08611111,52.83472222]
+      },
+      "properties": {
+        "ort": "Rütenbrock",
+        "wd": "Q2796905",
+        "target": "[https://euregio-history.net/de/node/120, https://euregio-history.net/de/node/121]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.3166666666667,52.1]
+      },
+      "properties": {
+        "ort": "Vorden",
+        "wd": "Q1615554",
+        "target": "[https://euregio-history.net/nl/node/128]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8955555555556,52.223611111111]
+      },
+      "properties": {
+        "ort": "Enschede",
+        "wd": "Q10002",
+        "target": "[https://euregio-history.net/de/node/172]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3480555555556,52.324444444444]
+      },
+      "properties": {
+        "ort": "Salzbergen",
+        "wd": "Q512612",
+        "target": "[https://euregio-history.net/de/node/108, https://euregio-history.net/de/node/117]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.502222,51.859167]
+      },
+      "properties": {
+        "ort": "Suderwick",
+        "wd": "Q485684",
+        "target": "[https://euregio-history.net/de/node/59, https://euregio-history.net/de/node/60, https://euregio-history.net/de/node/86, https://euregio-history.net/de/node/96, https://euregio-history.net/de/node/115, https://euregio-history.net/de/node/116, https://euregio-history.net/de/node/123, https://euregio-history.net/de/node/124, https://euregio-history.net/de/node/130, https://euregio-history.net/de/node/135, https://euregio-history.net/de/node/142, https://euregio-history.net/de/node/143, https://euregio-history.net/de/node/175, https://euregio-history.net/nl/node/187]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6666666666667,52.366666666667]
+      },
+      "properties": {
+        "ort": "Almelo",
+        "wd": "Q988",
+        "target": "[https://euregio-history.net/de/node/164]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.3797,51.8908]
+      },
+      "properties": {
+        "ort": "Ulft",
+        "wd": "Q1260625",
+        "target": "[https://euregio-history.net/nl/node/166]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9291666666667,52.3125]
+      },
+      "properties": {
+        "ort": "Oldenzaal",
+        "wd": "Q10016",
+        "target": "[https://euregio-history.net/de/node/98, https://euregio-history.net/de/node/109, https://euregio-history.net/de/node/117]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8666666666667,52.5]
+      },
+      "properties": {
+        "ort": "Uelsen",
+        "wd": "Q572300",
+        "target": "[https://euregio-history.net/de/node/154, https://euregio-history.net/de/node/155]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.035,52.2369]
+      },
+      "properties": {
+        "ort": "Overdinkel",
+        "wd": "Q918721",
+        "target": "[https://euregio-history.net/de/node/110]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0055555555556,51.956944444444]
+      },
+      "properties": {
+        "ort": "Gescher",
+        "wd": "Q200640",
+        "target": "[https://euregio-history.net/de/node/181]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0044,52.2617]
+      },
+      "properties": {
+        "ort": "Losser",
+        "wd": "Q10015",
+        "target": "[https://euregio-history.net/de/node/176]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.465488888889,50.659166666667]
+      },
+      "properties": {
+        "ort": "Schwartenberg",
+        "wd": "Q2253260",
+        "target": "[https://euregio-history.net/de/node/120, https://euregio-history.net/de/node/121]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7166666666667,51.966666666667]
+      },
+      "properties": {
+        "ort": "Winterswijk",
+        "wd": "Q72974",
+        "target": "[https://euregio-history.net/de/node/86, https://euregio-history.net/de/node/132, https://euregio-history.net/de/node/159, https://euregio-history.net/de/node/169, https://euregio-history.net/nl/node/180, https://euregio-history.net/de/node/181]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.195,52.14]
+      },
+      "properties": {
+        "ort": "Zutphen",
+        "wd": "Q109535",
+        "target": "[https://euregio-history.net/de/node/157, https://euregio-history.net/de/node/192]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2166666666667,52.316666666667]
+      },
+      "properties": {
+        "ort": "Schüttorf",
+        "wd": "Q515046",
+        "target": "[https://euregio-history.net/de/node/108]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4261111111111,51.850555555556]
+      },
+      "properties": {
+        "ort": "Anholt",
+        "wd": "Q545414",
+        "target": "[https://euregio-history.net/de/node/50, https://euregio-history.net/de/node/131]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0333333333333,53.15]
+      },
+      "properties": {
+        "ort": "Winschoten",
+        "wd": "Q73817",
+        "target": "[https://euregio-history.net/de/node/102]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2913888888889,52.3925]
+      },
+      "properties": {
+        "ort": "Emsbüren",
+        "wd": "Q629052",
+        "target": "[https://euregio-history.net/de/node/107]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9158333333333,52.126388888889]
+      },
+      "properties": {
+        "ort": "Alstätte",
+        "wd": "Q432815",
+        "target": "[https://euregio-history.net/de/node/62, https://euregio-history.net/de/node/65, https://euregio-history.net/de/node/66, https://euregio-history.net/de/node/67]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.23056,53.025]
+      },
+      "properties": {
+        "ort": "Neurhede",
+        "wd": "Q1981187",
+        "target": "[https://euregio-history.net/de/node/102]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8583333333333,51.843888888889]
+      },
+      "properties": {
+        "ort": "Borken",
+        "wd": "Q453",
+        "target": "[https://euregio-history.net/de/node/50, https://euregio-history.net/de/node/62, https://euregio-history.net/de/node/65, https://euregio-history.net/de/node/66, https://euregio-history.net/de/node/67, https://euregio-history.net/de/node/126, https://euregio-history.net/de/node/159, https://euregio-history.net/de/node/169, https://euregio-history.net/de/node/171]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0666666666667,52.433333333333]
+      },
+      "properties": {
+        "ort": "Nordhorn",
+        "wd": "Q4133",
+        "target": "[https://euregio-history.net/de/node/97, https://euregio-history.net/de/node/98, https://euregio-history.net/de/node/99, https://euregio-history.net/de/node/105, https://euregio-history.net/de/node/150, https://euregio-history.net/de/node/164, https://euregio-history.net/de/node/168]"
+}},{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9666666666667,52.5]
+      },
+      "properties": {
+        "ort": "Neuenhaus",
+        "wd": "Q572280",
+        "target": "[https://euregio-history.net/de/node/127]"
+}}]}
