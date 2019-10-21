@@ -16,3 +16,23 @@ Dieses Ergebnis hat ein paar Fehlmatches.
 Weiter Infos dazu in https://github.com/dr0i/euregio-history-map/issues/1.
 
 Alle Daten und Code in diesem Repo sind, wenn nicht anders vermerkt, CC0 lizensiert.
+
+# Build
+
+Prerequisites: Java 8, Maven 3; verify with `mvn -version`.
+
+```bash
+mkdir ~/git; cd ~/git; git clone https://github.com/dr0i/euregio-history-map.git; cd euregio-history-map
+```
+Get the data:
+```bash
+curl -L  "http://download.codingdavinci.de/index.php/s/5pimsCHErbWMfDs/download?path=%2F&files=content_export1567751077.csv" > content_export1567751077.csv
+```
+Run:
+```bash
+ mvn clean install; mvn exec:java -Dexec.mainClass=CreateGeoJson
+```
+See the output:
+```bash
+cat euregioHistory.geojson
+```
