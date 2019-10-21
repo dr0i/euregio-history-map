@@ -1,3 +1,4 @@
+/* Copyright 2019 hbz, Pascal Christoph. Licensed under the EPL 2.0*/
 import java.io.BufferedWriter;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -87,12 +88,22 @@ public class CreateGeoJson {
     }
 
     // @formatter:off
-    static String geoJsonHead = "{\n" + "  \"type\": \"FeatureCollection\",\n" + "  \"features\": [\n";
+    static String geoJsonHead = 
+          "{\n" +
+          "  \"type\": \"FeatureCollection\",\n" +
+          "  \"features\": [\n";
     static String geoJsonEntry = //
-            "{\n" + "      \"type\": \"Feature\",\n" + "      \"geometry\": {\n" + "        \"type\": \"Point\",\n"
-                    + "        \"coordinates\": [%s,%s]\n" + "      },\n" + "      \"properties\": {\n"
-                    + "        \"ort\": \"%s\",\n" + "        \"wd\": \"%s\",\n" + "        \"target\": \"%s\"\n"
-                    + "}}";
+          "{\n" +
+          "      \"type\": \"Feature\",\n" +
+          "      \"geometry\": {\n" +
+          "        \"type\": \"Point\",\n" +
+          "        \"coordinates\": [%s,%s]\n" +
+          "      },\n" +
+          "      \"properties\": {\n" +
+          "        \"ort\": \"%s\",\n" +
+          "        \"wd\": \"%s\",\n" +
+          "        \"target\": \"%s\"\n" +
+          "}}";
 
     // @formatter:on
     private static void getJsonEntry(final String ORT, final BufferedWriter WRITER) throws IOException {
