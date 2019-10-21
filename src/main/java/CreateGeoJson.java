@@ -119,7 +119,7 @@ public class CreateGeoJson {
      * @param ORT
      *            the name of the locality
      */
-    static String wdLookup = "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=dewiki&titles=%s&props=descriptions&languages=de&format=json";
+    static String wdLookup = "https://www.wikidata.org/w/api.php?action=wbgetentities&sites=dewiki|nlwiki&titles=%s&props=descriptions&languages=de&format=json";
 
     public static String lookupWikidataGetId(final String ORT) {
         String newWdUrl = String.format(wdLookup, ORT);

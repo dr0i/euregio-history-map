@@ -60,6 +60,28 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.0089,52.3794]
+      },
+      "properties": {
+        "ort": "Denekamp",
+        "wd": "Q3022448",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/105\">\"Een uitstapje naar Bentheim\"</a>, </br><a href=\"https://euregio-history.net/de/node/122\">\"Zoll-Dienst bei Nacht und im Regen\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6863888888889,52.053888888889]
+      },
+      "properties": {
+        "ort": "Zwilbroek",
+        "wd": "Q2490635",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/138\">\"De smokkelhandel tussen Holterhoek en Zwilbroek\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [6.6166666666667,51.833333333333]
       },
       "properties": {
@@ -181,6 +203,17 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [6.5658,52.0689]
+      },
+      "properties": {
+        "ort": "Beltrum",
+        "wd": "Q2011066",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/170\">\"Heiratsvermittlung über die Grenze\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.08611111,52.83472222]
       },
       "properties": {
@@ -242,6 +275,17 @@
         "ort": "Almelo",
         "wd": "Q988",
         "target": "</br><a href=\"https://euregio-history.net/de/node/164\">\"Lebenslange Freundschaft\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7997,51.975]
+      },
+      "properties": {
+        "ort": "Ratum",
+        "wd": "Q2672536",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/86\">\"Over de Grens - Truus en Wim\"</a>"
 }},
 {
       "type": "Feature",
@@ -368,6 +412,17 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [7.1514,52.9464]
+      },
+      "properties": {
+        "ort": "Sellingen",
+        "wd": "Q2236110",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/103\">\"Ein Zöllner in Not\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [7.0333333333333,53.15]
       },
       "properties": {
@@ -418,6 +473,17 @@
         "ort": "Borken",
         "wd": "Q453",
         "target": "</br><a href=\"https://euregio-history.net/de/node/50\">\"Grenzlandkundgebung 24.4.1949\"</a>, </br><a href=\"https://euregio-history.net/de/node/62\">\"Das &quot;Niemandsland&quot;\"</a>, </br><a href=\"https://euregio-history.net/de/node/65\">\"Der fehlende Grenzstein Nr. 46\"</a>, </br><a href=\"https://euregio-history.net/de/node/66\">\"Die Grenze verschwindet\"</a>, </br><a href=\"https://euregio-history.net/de/node/67\">\"Der Zweite Weltkrieg\"</a>, </br><a href=\"https://euregio-history.net/de/node/126\">\"Das blutige Ende einer nächtlichen Schmugglerfahrt im Winter 1809\"</a>, </br><a href=\"https://euregio-history.net/de/node/159\">\"Erich Haas\"</a>, </br><a href=\"https://euregio-history.net/de/node/169\">\"Das Schmuggelkind\"</a>, </br><a href=\"https://euregio-history.net/de/node/171\">\"Platt benachteiligt\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.67944444,52.06472222]
+      },
+      "properties": {
+        "ort": "Holterhoek",
+        "wd": "Q2351838",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/138\">\"De smokkelhandel tussen Holterhoek en Zwilbroek\"</a>, </br><a href=\"https://euregio-history.net/de/node/173\">\"Grenzwacht im Ersten Weltkrieg\"</a>"
 }},
 {
       "type": "Feature",
