@@ -1,0 +1,443 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4833333333333,51.866666666667]
+      },
+      "properties": {
+        "ort": "Dinxperlo",
+        "wd": "Q1226753",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/53\">\"Der Heelweg in Friedens- und Kriegszeiten\"</a>, </br><a href=\"https://euregio-history.net/de/node/60\">\"Dinxperlo und Suderwick im 1. Weltkrieg\"</a>, </br><a href=\"https://euregio-history.net/de/node/86\">\"Over de Grens - Truus en Wim\"</a>, </br><a href=\"https://euregio-history.net/de/node/96\">\"Kommiesenpörtkes zur Kontrolle von Schmugglern\"</a>, </br><a href=\"https://euregio-history.net/de/node/115\">\"&quot;Dinxperwick&quot; setzt Impulse\"</a>, </br><a href=\"https://euregio-history.net/de/node/116\">\"Alter Grenzübergang wird zum Informationspunkt\"</a>, </br><a href=\"https://euregio-history.net/de/node/123\">\"Grenze / Grens ... to be expired ... to be remembered\"</a>, </br><a href=\"https://euregio-history.net/de/node/124\">\"Suderwick geteilt\"</a>, </br><a href=\"https://euregio-history.net/nl/node/125\">\"Dinxperlo 1931: een vroeg anti-Joods grensincident\"</a>, </br><a href=\"https://euregio-history.net/de/node/135\">\"Das Wandern ist des Müllers Lust\"</a>, </br><a href=\"https://euregio-history.net/de/node/175\">\"Ein Panzer sammelt Spenden\"</a>, </br><a href=\"https://euregio-history.net/nl/node/187\">\"De Hellweg in goede en slechte tijden\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5666666666667,51.983333333333]
+      },
+      "properties": {
+        "ort": "Lichtenvoorde",
+        "wd": "Q684984",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/157\">\"Niet van lange duur\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5808,51.925]
+      },
+      "properties": {
+        "ort": "Aalten",
+        "wd": "Q275909",
+        "target": "</br><a href=\"https://euregio-history.net/nl/node/82\">\"Willem Herfstink - Aron Jan Willem Jedwab\"</a>, </br><a href=\"https://euregio-history.net/de/node/94\">\"Jan Wikkerink alias „Ome Jan“\"</a>, </br><a href=\"https://euregio-history.net/de/node/157\">\"Niet van lange duur\"</a>, </br><a href=\"https://euregio-history.net/de/node/167\">\"De Nederlandse vlag op de kerktoren van Aalten\"</a>, </br><a href=\"https://euregio-history.net/de/node/178\">\"Nächstenliebe, auch gegenüber Deutschen\"</a>, </br><a href=\"https://euregio-history.net/nl/node/179\">\"Naastenliefde, ook voor de Duitsers\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9166666666667,52.516666666667]
+      },
+      "properties": {
+        "ort": "Gölenkamp",
+        "wd": "Q624634",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/101\">\"Schmuggel am hellichten Tag\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7930555555556,52.265555555556]
+      },
+      "properties": {
+        "ort": "Hengelo",
+        "wd": "Q10006",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/78\">\"Eene Geschichte, de nümms glööwen will.\"</a>, </br><a href=\"https://euregio-history.net/de/node/117\">\"Panzerzug gegen Holland auf der Strecke Salzbergen-Almelo\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6166666666667,51.833333333333]
+      },
+      "properties": {
+        "ort": "Bocholt",
+        "wd": "Q3917",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/130\">\"Schöne - aber bewegte Zeiten\"</a>, </br><a href=\"https://euregio-history.net/de/node/157\">\"Niet van lange duur\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.2833333333333,51.966666666667]
+      },
+      "properties": {
+        "ort": "Doetinchem",
+        "wd": "Q145845",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/137\">\"Er waren ook goede Duitsers\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8333333333333,51.766666666667]
+      },
+      "properties": {
+        "ort": "Raesfeld",
+        "wd": "Q200247",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/171\">\"Platt benachteiligt\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.295,51.979166666667]
+      },
+      "properties": {
+        "ort": "Billerbeck",
+        "wd": "Q14946",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/192\">\"Berkel\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.47917,51.9225]
+      },
+      "properties": {
+        "ort": "Rotterdam",
+        "wd": "Q34370",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/178\">\"Nächstenliebe, auch gegenüber Deutschen\"</a>, </br><a href=\"https://euregio-history.net/nl/node/179\">\"Naastenliefde, ook voor de Duitsers\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3930555555556,52.756111111111]
+      },
+      "properties": {
+        "ort": "Niedersachsen",
+        "wd": "Q1197",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/81\">\"Die Stunde der Schwester Kunigunde\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8330555555556,52.033055555556]
+      },
+      "properties": {
+        "ort": "Vreden",
+        "wd": "Q200528",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/78\">\"Eene Geschichte, de nümms glööwen will.\"</a>, </br><a href=\"https://euregio-history.net/de/node/138\">\"De smokkelhandel tussen Holterhoek en Zwilbroek\"</a>, </br><a href=\"https://euregio-history.net/de/node/140\">\"Leben an der Grenze\"</a>, </br><a href=\"https://euregio-history.net/nl/node/180\">\"Van biggen, tabak en hasj\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6911111111111,52.054166666667]
+      },
+      "properties": {
+        "ort": "Zwillbrock",
+        "wd": "Q153919",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/173\">\"Grenzwacht im Ersten Weltkrieg\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7990833333333,51.8435]
+      },
+      "properties": {
+        "ort": "Hoxfeld",
+        "wd": "Q1632070",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/126\">\"Das blutige Ende einer nächtlichen Schmugglerfahrt im Winter 1809\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8497222222222,52.466666666667]
+      },
+      "properties": {
+        "ort": "Getelo",
+        "wd": "Q629066",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/154\">\"Billige Einkaufsfahrten und teure Einbürgerung\"</a>, </br><a href=\"https://euregio-history.net/de/node/155\">\"Mit dem Hund auf Grenzpatrouille\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5491666666667,51.833055555556]
+      },
+      "properties": {
+        "ort": "Liedern",
+        "wd": "Q44052318",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/130\">\"Schöne - aber bewegte Zeiten\"</a>, </br><a href=\"https://euregio-history.net/de/node/134\">\"Meine Zeit in Deutschland\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.08611111,52.83472222]
+      },
+      "properties": {
+        "ort": "Rütenbrock",
+        "wd": "Q2796905",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/120\">\"Mord auf der Grenze\"</a>, </br><a href=\"https://euregio-history.net/de/node/121\">\"„Karo, Karo…“\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.3166666666667,52.1]
+      },
+      "properties": {
+        "ort": "Vorden",
+        "wd": "Q1615554",
+        "target": "</br><a href=\"https://euregio-history.net/nl/node/128\">\"Oorlog op De Wiersse\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8955555555556,52.223611111111]
+      },
+      "properties": {
+        "ort": "Enschede",
+        "wd": "Q10002",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/172\">\"Paspoort Carl Adolf Schweizer\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3480555555556,52.324444444444]
+      },
+      "properties": {
+        "ort": "Salzbergen",
+        "wd": "Q512612",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/108\">\"Erschwerter Grenzverkehr in den 20er Jahren\"</a>, </br><a href=\"https://euregio-history.net/de/node/117\">\"Panzerzug gegen Holland auf der Strecke Salzbergen-Almelo\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.502222,51.859167]
+      },
+      "properties": {
+        "ort": "Suderwick",
+        "wd": "Q485684",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/59\">\"Ist Fussball unpolitisch?\"</a>, </br><a href=\"https://euregio-history.net/de/node/60\">\"Dinxperlo und Suderwick im 1. Weltkrieg\"</a>, </br><a href=\"https://euregio-history.net/de/node/86\">\"Over de Grens - Truus en Wim\"</a>, </br><a href=\"https://euregio-history.net/de/node/96\">\"Kommiesenpörtkes zur Kontrolle von Schmugglern\"</a>, </br><a href=\"https://euregio-history.net/de/node/115\">\"&quot;Dinxperwick&quot; setzt Impulse\"</a>, </br><a href=\"https://euregio-history.net/de/node/116\">\"Alter Grenzübergang wird zum Informationspunkt\"</a>, </br><a href=\"https://euregio-history.net/de/node/123\">\"Grenze / Grens ... to be expired ... to be remembered\"</a>, </br><a href=\"https://euregio-history.net/de/node/124\">\"Suderwick geteilt\"</a>, </br><a href=\"https://euregio-history.net/de/node/130\">\"Schöne - aber bewegte Zeiten\"</a>, </br><a href=\"https://euregio-history.net/de/node/135\">\"Das Wandern ist des Müllers Lust\"</a>, </br><a href=\"https://euregio-history.net/de/node/142\">\"Ein Musikinstrument als Pass\"</a>, </br><a href=\"https://euregio-history.net/de/node/143\">\"Betten für die NSB\"</a>, </br><a href=\"https://euregio-history.net/de/node/175\">\"Ein Panzer sammelt Spenden\"</a>, </br><a href=\"https://euregio-history.net/nl/node/187\">\"De Hellweg in goede en slechte tijden\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6666666666667,52.366666666667]
+      },
+      "properties": {
+        "ort": "Almelo",
+        "wd": "Q988",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/164\">\"Lebenslange Freundschaft\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.3797,51.8908]
+      },
+      "properties": {
+        "ort": "Ulft",
+        "wd": "Q1260625",
+        "target": "</br><a href=\"https://euregio-history.net/nl/node/166\">\"Pas voor de verboden strook\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9291666666667,52.3125]
+      },
+      "properties": {
+        "ort": "Oldenzaal",
+        "wd": "Q10016",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/98\">\"Und der meint, ich soll bei einem Deutschen kaufen?\"</a>, </br><a href=\"https://euregio-history.net/de/node/109\">\"Zwischen allen Staaten und Grenzen\"</a>, </br><a href=\"https://euregio-history.net/de/node/117\">\"Panzerzug gegen Holland auf der Strecke Salzbergen-Almelo\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8666666666667,52.5]
+      },
+      "properties": {
+        "ort": "Uelsen",
+        "wd": "Q572300",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/154\">\"Billige Einkaufsfahrten und teure Einbürgerung\"</a>, </br><a href=\"https://euregio-history.net/de/node/155\">\"Mit dem Hund auf Grenzpatrouille\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.035,52.2369]
+      },
+      "properties": {
+        "ort": "Overdinkel",
+        "wd": "Q918721",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/110\">\"Das „Smokkelmuseum“ in Overdinkel\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0055555555556,51.956944444444]
+      },
+      "properties": {
+        "ort": "Gescher",
+        "wd": "Q200640",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/181\">\"Mit dem Moped über die Grenze\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0044,52.2617]
+      },
+      "properties": {
+        "ort": "Losser",
+        "wd": "Q10015",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/176\">\"Die Grenze als kulinarische Barriere\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.465488888889,50.659166666667]
+      },
+      "properties": {
+        "ort": "Schwartenberg",
+        "wd": "Q2253260",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/120\">\"Mord auf der Grenze\"</a>, </br><a href=\"https://euregio-history.net/de/node/121\">\"„Karo, Karo…“\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7166666666667,51.966666666667]
+      },
+      "properties": {
+        "ort": "Winterswijk",
+        "wd": "Q72974",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/86\">\"Over de Grens - Truus en Wim\"</a>, </br><a href=\"https://euregio-history.net/de/node/132\">\"Liebe im Krieg: Thea und Wolfgang\"</a>, </br><a href=\"https://euregio-history.net/de/node/159\">\"Erich Haas\"</a>, </br><a href=\"https://euregio-history.net/de/node/169\">\"Das Schmuggelkind\"</a>, </br><a href=\"https://euregio-history.net/nl/node/180\">\"Van biggen, tabak en hasj\"</a>, </br><a href=\"https://euregio-history.net/de/node/181\">\"Mit dem Moped über die Grenze\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.195,52.14]
+      },
+      "properties": {
+        "ort": "Zutphen",
+        "wd": "Q109535",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/157\">\"Niet van lange duur\"</a>, </br><a href=\"https://euregio-history.net/de/node/192\">\"Berkel\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2166666666667,52.316666666667]
+      },
+      "properties": {
+        "ort": "Schüttorf",
+        "wd": "Q515046",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/108\">\"Erschwerter Grenzverkehr in den 20er Jahren\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4261111111111,51.850555555556]
+      },
+      "properties": {
+        "ort": "Anholt",
+        "wd": "Q545414",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/50\">\"Grenzlandkundgebung 24.4.1949\"</a>, </br><a href=\"https://euregio-history.net/de/node/131\">\"Tee für die Kaiserliche Hoheit\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0333333333333,53.15]
+      },
+      "properties": {
+        "ort": "Winschoten",
+        "wd": "Q73817",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/102\">\"Die löcherige Hosentasche\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2913888888889,52.3925]
+      },
+      "properties": {
+        "ort": "Emsbüren",
+        "wd": "Q629052",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/107\">\"Ausweispflicht als Kriegsmaßnahme\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9158333333333,52.126388888889]
+      },
+      "properties": {
+        "ort": "Alstätte",
+        "wd": "Q432815",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/62\">\"Das &quot;Niemandsland&quot;\"</a>, </br><a href=\"https://euregio-history.net/de/node/65\">\"Der fehlende Grenzstein Nr. 46\"</a>, </br><a href=\"https://euregio-history.net/de/node/66\">\"Die Grenze verschwindet\"</a>, </br><a href=\"https://euregio-history.net/de/node/67\">\"Der Zweite Weltkrieg\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.23056,53.025]
+      },
+      "properties": {
+        "ort": "Neurhede",
+        "wd": "Q1981187",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/102\">\"Die löcherige Hosentasche\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8583333333333,51.843888888889]
+      },
+      "properties": {
+        "ort": "Borken",
+        "wd": "Q453",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/50\">\"Grenzlandkundgebung 24.4.1949\"</a>, </br><a href=\"https://euregio-history.net/de/node/62\">\"Das &quot;Niemandsland&quot;\"</a>, </br><a href=\"https://euregio-history.net/de/node/65\">\"Der fehlende Grenzstein Nr. 46\"</a>, </br><a href=\"https://euregio-history.net/de/node/66\">\"Die Grenze verschwindet\"</a>, </br><a href=\"https://euregio-history.net/de/node/67\">\"Der Zweite Weltkrieg\"</a>, </br><a href=\"https://euregio-history.net/de/node/126\">\"Das blutige Ende einer nächtlichen Schmugglerfahrt im Winter 1809\"</a>, </br><a href=\"https://euregio-history.net/de/node/159\">\"Erich Haas\"</a>, </br><a href=\"https://euregio-history.net/de/node/169\">\"Das Schmuggelkind\"</a>, </br><a href=\"https://euregio-history.net/de/node/171\">\"Platt benachteiligt\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0666666666667,52.433333333333]
+      },
+      "properties": {
+        "ort": "Nordhorn",
+        "wd": "Q4133",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/97\">\"Butter in der Hosentasche\"</a>, </br><a href=\"https://euregio-history.net/de/node/98\">\"Und der meint, ich soll bei einem Deutschen kaufen?\"</a>, </br><a href=\"https://euregio-history.net/de/node/99\">\"Was man nicht alles für Freunde tut\"</a>, </br><a href=\"https://euregio-history.net/de/node/105\">\"Een uitstapje naar Bentheim\"</a>, </br><a href=\"https://euregio-history.net/de/node/150\">\"Der Reisepass meines Vaters\"</a>, </br><a href=\"https://euregio-history.net/de/node/164\">\"Lebenslange Freundschaft\"</a>, </br><a href=\"https://euregio-history.net/de/node/168\">\"Eine Europapremiere\"</a>"
+}},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9666666666667,52.5]
+      },
+      "properties": {
+        "ort": "Neuenhaus",
+        "wd": "Q572280",
+        "target": "</br><a href=\"https://euregio-history.net/de/node/127\">\"Zur Arbeit nach Nordholland\"</a>"
+}}]}

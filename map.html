@@ -1,7 +1,7 @@
 
 <html>
 <head>
-  <title>A Leaflet map!</title>
+  <title>Kartenvisualiserung für die Zeitzeugengeschichten der Euregio-History</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"/>
    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
 
@@ -28,11 +28,11 @@
     }).addTo(map);
 
   // load GeoJSON from an external file
-  $.getJSON("ortsnameWDLatLon.geojson",function(data){
+  $.getJSON("euregioHistory.geojson",function(data){
     L.geoJson(data ,{
 pointToLayer: function(feature,latlng){
       var marker = L.marker(latlng);
-      marker.bindPopup(feature.properties.ort + '<br/>' + "https://wikidata.org/entities/"+feature.properties.wd+ '<br/>' + feature.properties.target);
+      marker.bindPopup("Ort: <a href=https://wikidata.org/entity/"+feature.properties.wd+ '>'+feature.properties.ort + '</a><br/>Titel:' + feature.properties.target);
       return marker;
     }
 
