@@ -30,9 +30,14 @@ curl -L  "http://download.codingdavinci.de/index.php/s/5pimsCHErbWMfDs/download?
 ```
 Run:
 ```bash
- mvn clean install; mvn exec:java -Dexec.mainClass=CreateGeoJson
+ mvn clean install; mvn exec:java -Dexec.mainClass=CreateGeoJson >out.log
 ```
-See the output:
+See the geojson output:
 ```bash
 cat euregioHistory.geojson
 ```
+Create the "missingGeoData.txt" and "missingWdEntity.txt" files:
+```bash
+bash getMissingWDEntityOrGeoData.sh
+```
+
