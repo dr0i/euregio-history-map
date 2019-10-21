@@ -12,4 +12,4 @@ Der aktuelle Ansatz benutzt die wikidata API, um die Namen aufzulösen, und dann
 GeoDaten zu bekommen aus der Wikidata.
 Es gibt nun für 40 von 71 Orte GeoDaten.
 Dieses Ergebnis hat ein paar Fehlmatches.
-Weiter Infos dazu in #1.
+Weiter Infos dazu in https://github.com/dr0i/euregio-history-map/issues/1.
