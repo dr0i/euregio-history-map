@@ -1,23 +1,33 @@
 # euregio-history-map
-Kartenvisualisierung der Datensätze von https://euregio-history.net/de
+Hier steht beschrieben, wie die interaktive Karte der Geschichten, die [euregio-history](https://euregio-history.net/) sammelt, erzeugt wurde.
 
 Der [Datensatz wurde für codingDavinci in Dortmund 2019 hochgeladen](http://download.codingdavinci.de/index.php/s/5pimsCHErbWMfDs/download?path=%2F&files=content_export1567751077.csv).
 
-Zum [aktuellen Stand der Visualisierung](http://lobid.org/download/tmp/euregio-history/map.html).
-Auf die blauen Markierer klicken um eine Liste von Titeln mit Links zu den Texten zu erhalten. 
+Die Karte wurde produktiv geschaltet in [euregio-history](https://euregio-history.net/): dort auf die blauen Markierer klicken um eine Liste von Titeln mit Links zu den Texten zu erhalten.
 
-Dem Datensatz fehlen Geodaten für die Visualisierung. Die Ortsnamen liegen nur als Literale vor, deshalb bedarf es einer Disambiguierung, wenn diese Ortsnamen in einer
+Dieses Miniprojekt wurde für die [Coding Da Vinci Westfalen 2019](https://codingdavinci.de/events/westfalen-ruhrgebiet/) angemeldet.
+
+# Ausgangslage: die Daten
+Dem originären Datensatz fehlen Geodaten für die Visualisierung. Die Ortsnamen liegen nur als Literale vor, deshalb bedarf es einer Disambiguierung, wenn diese Ortsnamen in einer
 Geodatenbank gesucht werden sollen, um an die Geodaten zu gelangen.
 
-Der aktuelle Ansatz benutzt die wikidata API, um die Namen aufzulösen, und dann
-GeoDaten zu bekommen aus der Wikidata.
+Der aktuelle Ansatz benutzt die Wikidata API, um die Namen aufzulösen, um dann Geo-Daten aus der Wikidata zu bekommen.
+
+# Erzeugte Geodaten
 Es gibt nun für 40 von 71 Orte GeoDaten.
+
+# Verbesserungsmöglichkeiten
 Dieses Ergebnis hat ein paar Fehlmatches.
 Weiter Infos dazu in https://github.com/dr0i/euregio-history-map/issues/1.
 
 Alle Daten und Code in diesem Repo sind, wenn nicht anders vermerkt, CC0 lizensiert.
 
+# Benutzungsanleitung
+
+Die Datei `map.html` und die `euregioHistory.geojson` müssen auf einem Webserver abgelegt werden.
+
 # Build
+Um die [Geojson-Daten](https://github.com/dr0i/euregio-history-map/blob/master/euregioHistory.geojson) aus den originären Daten zu erzeugen muss(te) folgendes getan werden:
 
 Prerequisites: Java 8, Maven 3; verify with `mvn -version`.
 
@@ -40,4 +50,3 @@ Create the "missingGeoData.txt" and "missingWdEntity.txt" files:
 ```bash
 bash getMissingWDEntityOrGeoData.sh
 ```
-
