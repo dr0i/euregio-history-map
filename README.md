@@ -1,14 +1,14 @@
 # euregio-history-map
-Hier steht beschrieben, wie die interaktive Karte der Geschichten, die [euregio-history](https://euregio-history.net/) sammelt, erzeugt wurde.
+Hier steht beschrieben, wie die interaktive Karte der Geschichten, die euregio-history.net sammelt, erzeugt wurde.
 
-Der [Datensatz wurde für codingDavinci in Dortmund 2019 hochgeladen](http://download.codingdavinci.de/index.php/s/5pimsCHErbWMfDs/download?path=%2F&files=content_export1567751077.csv).
 
 Die Karte wurde produktiv geschaltet in [euregio-history](https://euregio-history.net/): dort auf die blauen Markierer klicken um eine Liste von Titeln mit Links zu den Texten zu erhalten.
 
 Dieses Miniprojekt wurde für die [Coding Da Vinci Westfalen 2019](https://codingdavinci.de/events/westfalen-ruhrgebiet/) angemeldet.
 
 # Ausgangslage: die Daten
-Dem originären Datensatz fehlen Geodaten für die Visualisierung. Die Ortsnamen liegen nur als Literale vor, deshalb bedarf es einer Disambiguierung, wenn diese Ortsnamen in einer
+Dem [originären Datensatz von Coding Da Vinci Westfalen 2019](http://download.codingdavinci.de/index.php/s/5pimsCHErbWMfDs/download?path=%2F&files=content_export1567751077.csv)
+ fehlen Geodaten für die Visualisierung. Die Ortsnamen liegen nur als Literale vor, deshalb bedarf es einer Disambiguierung, wenn diese Ortsnamen in einer
 Geodatenbank gesucht werden sollen, um an die Geodaten zu gelangen.
 
 Der aktuelle Ansatz benutzt die Wikidata API, um die Namen aufzulösen, um dann Geo-Daten aus der Wikidata zu bekommen.
